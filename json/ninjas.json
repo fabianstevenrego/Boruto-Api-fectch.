@@ -1,0 +1,558 @@
+{
+    "personajes": [
+        {
+            "nombre": "Boruto Uzumaki",
+            "imagen": "https://lh3.google.com/u/0/d/1Mbtw3Z_aX9zZVCHDNGwDu-pryaDi4ATb=w1920-h906-iv1",
+            "edad": 12,
+            "aldea": "Aldea de la Hoja",
+            "ocupación": "Ninja",
+            "jutsus": [
+                "Clon de sombra",
+                "Rasengan"
+            ],
+            "descripción": "Boruto es el hijo de Naruto Uzumaki y Hinata Hyuga. Es un joven ninja que sueña con ser el Hokage de la Aldea de la Hoja algún día."
+        },
+        {
+            "nombre": "Sarada Uchiha",
+            "imagen": "https://lh3.google.com/u/0/d/167XaUAm6G579Oj4F72D1E3h0Kb4fE2Pt=w1184-h906-iv1",
+            "edad": 12,
+            "aldea": "Aldea de la Hoja",
+            "ocupación": "Ninja",
+            "jutsus": [
+                "Sharingan",
+                "Chidori"
+            ],
+            "descripción": "Sarada es la hija de Sasuke Uchiha y Sakura Haruno. Es una kunoichi ambiciosa que busca convertirse en la próxima Hokage de la Aldea de la Hoja."
+        },
+        {
+            "nombre": "Mitsuki",
+            "imagen": "https://lh3.google.com/u/0/d/1UOl5Dx03kq0IEq8yYugWPFD2jbfi4OMB=w1184-h906-iv1",
+            "edad": 12,
+            "aldea": "Aldea de la Hoja",
+            "ocupación": "Ninja",
+            "jutsus": [
+                "Serpiente blanca",
+                "Modo Sabio"
+            ],
+            "descripción": "Mitsuki es un ninja artificial creado por Orochimaru. Es un compañero leal y tranquilo que siempre está dispuesto a ayudar a sus amigos."
+        },
+        {
+            "nombre": "Shikadai Nara",
+            "imagen": "https://lh3.google.com/u/0/d/12t7PaEMNmFyzyeH84q-stE4E7PJnYSay=w1184-h906-iv1",
+            "edad": 12,
+            "aldea": "Aldea de la Hoja",
+            "ocupación": "Ninja",
+            "jutsus": [
+                "Jutsu de sombra",
+                "Jutsu de manipulación de viento"
+            ],
+            "descripción": "Shikadai es el hijo de Shikamaru Nara y Temari. Es un ninja astuto que heredó la inteligencia y la pereza de su padre."
+        },
+        {
+            "nombre": "Inojin Yamanaka",
+            "imagen": "https://lh3.google.com/u/0/d/1eWaoIWygVtJ-LkLIzMxs4Pq_I12mcpMV=w1184-h906-iv1",
+            "edad": 12,
+            "aldea": "Aldea de la Hoja",
+            "ocupación": "Ninja",
+            "jutsus": [
+                "Jutsu de tinta",
+                "Jutsu de telepatía"
+            ],
+            "descripción": "Inojin es el hijo de Sai y Ino Yamanaka. Es un ninja creativo que disfruta dibujando y practicando sus técnicas de ninjutsu."
+        },
+        {
+            "nombre": "Chocho Akimichi",
+            "imagen": "https://lh3.google.com/u/0/d/1gyZ1y41N6ZcALlAfKb5yCIZ7h-BveY8N=w1184-h906-iv1",
+            "edad": 12,
+            "aldea": "Aldea de la Hoja",
+            "ocupación": "Ninja",
+            "jutsus": [
+                "Jutsu de expansión",
+                "Jutsu de transformación"
+            ],
+            "descripción": "Chocho es la hija de Choji Akimichi y Karui. Es una kunoichi fuerte que ama la comida y la moda."
+        },
+        {
+            "nombre": "Metal Lee",
+            "imagen": "https://lh3.google.com/u/0/d/1G45mO8es3R5i7LwtUvu3oluXPxrdGG5h=w1184-h906-iv1",
+            "edad": 12,
+            "aldea": "Aldea de la Hoja",
+            "ocupación": "Ninja",
+            "jutsus": [
+                "Puño de la roca sólida",
+                "Puño dinámico"
+            ],
+            "descripción": "Metal Lee es el hijo de Rock Lee y uno de los estudiantes de la Academia Ninja de la Aldea de la Hoja. Es un ninja muy disciplinado que se esfuerza por superar sus límites a través del entrenamiento físico."
+        },
+        {
+            "nombre": "Iwabee Yuino",
+            "imagen": "https://lh3.google.com/u/0/d/15N2KvdUwzxiVAQAgUKwmOyHAZRS5iP94=w1184-h906-iv1",
+            "edad": 12,
+            "aldea": "Aldea de la Hoja",
+            "ocupación": "Ninja",
+            "jutsus": [
+                "Jutsu de tierra",
+                "Jutsu de golpe de roca"
+            ],
+            "descripción": "Iwabee es un estudiante de la Academia Ninja que tiene problemas para controlar su chakra. Sin embargo, es un ninja fuerte y dedicado que trabaja duro para mejorar sus habilidades."
+        },
+        {
+            "nombre": "Sumire Kakei",
+            "imagen": "https://lh3.google.com/u/0/d/1tEqGoQNBG0JeTlVMlXIVIyGrW9kez92F=w1184-h906-iv1",
+            "edad": 12,
+            "aldea": "Aldea de la Hoja",
+            "ocupación": "Ninja",
+            "jutsus": [
+                "Jutsu de explosión",
+                "Jutsu de teletransporte"
+            ],
+            "descripción": "Sumire es una kunoichi que se une al equipo de Boruto y sus amigos después de graduarse de la Academia Ninja. Es una persona amable y considerada, pero también tiene un lado oscuro debido a su pasado."
+        },
+        {
+            "nombre": "Denki Kaminarimon",
+            "imagen": "https://lh3.google.com/u/0/d/1GXg9F67Z8vGy2npJRxk4G4xk8vnIcTl4=w1184-h906-iv1",
+            "edad": 12,
+            "aldea": "Aldea de la Hoja",
+            "ocupación": "Ninja",
+            "jutsus": [
+                "Jutsu de electricidad",
+                "Jutsu de invocación de drones"
+            ],
+            "descripción": "Denki es el hijo de un magnate de la tecnología y un estudiante de la Academia Ninja. Es un ninja inteligente que utiliza su conocimiento en tecnología para ayudar a su equipo."
+        }
+    ],
+    "mascotas": [
+        {
+            "nombre": "Nue",
+            "imagen": "https://lh3.google.com/u/0/d/14Ulk9pkBYMpAAigN8b3rsqrgIIvgmwxt=w1184-h906-iv1",
+            "tipo": "Criatura mística",
+            "habilidades": [
+                "Manipulación de chakra"
+            ],
+            "descripción": "Nue es una criatura mística que apareció por primera vez en la historia de Naruto. Es un ser poderoso capaz de manipular el chakra a su antojo."
+        },
+        {
+            "nombre": "Kuu",
+            "imagen": "https://lh3.google.com/u/0/d/1LjUKrSTXnDFur2lxZb-2yD_H-CGm_W8O=w1184-h906-iv1",
+            "tipo": "Gato ninja",
+            "habilidades": [
+                "Agilidad",
+                "Sentidos agudos"
+            ],
+            "descripción": "Kuu es un gato ninja que tiene habilidades increíbles de agilidad y sentidos agudos. Es el compañero de equipo de Hako y aparece en la misión del examen Chūnin."
+        },
+        {
+            "nombre": "Akamaru",
+            "imagen": "https://lh3.google.com/u/0/d/1vyXNfDN5U4qDXaPQtu3wvB2jpfVeMvLu=w1920-h1080-iv1",
+            "tipo": "Perro ninja",
+            "habilidades": [
+                "Sentidos agudos"
+            ],
+            "descripción": "Akamaru es el perro ninja de Kiba Inuzuka. Tiene sentidos muy agudos y es capaz de detectar a enemigos a kilómetros de distancia."
+        },
+        {
+            "nombre": "Shibuki",
+            "imagen": "https://lh3.google.com/u/0/d/1FKRYmZkuDaCuJc--v7G5l4HC61fM7F1V=w1920-h906-iv1",
+            "tipo": "Conejo ninja",
+            "habilidades": [
+                "Velocidad",
+                "Habilidad de clonación"
+            ],
+            "descripción": "Shibuki es un conejo ninja que tiene una gran velocidad y habilidad de clonación. Es el compañero de equipo de Sango y aparece en la misión del examen Chūnin."
+        }
+    ],
+    "objetos": [
+        {
+            "nombre": "Espada Kusanagi",
+            "imagen": "https://lh3.google.com/u/0/d/1XKoL3rri6MOea1JPUOVDzRACXugQWfSA=w1184-h906-iv1",
+            "tipo": "Espada",
+            "habilidades": [
+                "Cortar cualquier cosa",
+                "Manipulación del viento"
+            ],
+            "portador": "Orochimaru",
+            "aldea": "Aldea Oculta del Sonido"
+        },
+        {
+            "nombre": "espada de Totsuka",
+            "imagen": "https://lh3.google.com/u/0/d/1XDPY5k_xLfiUkPVupu7YMZw-xME3-V-0=w1184-h906-iv1",
+            "tipo": "Arma mística",
+            "habilidades": [
+                "Sellado eterno",
+                "Ataque de espíritu"
+            ],
+            "portador": "Itachi Uchiha",
+            "aldea": "Aldea Oculta de la Hoja"
+        },
+        {
+            "nombre": "Anillos Akatsuki",
+            "imagen": "https://lh3.google.com/u/0/d/1GVZtv7-P33AjJXd-yUpvu-sMznM68Fep=w1184-h906-iv1",
+            "tipo": "Anillos",
+            "habilidades": [
+                "Sellado de jutsus",
+                "Manipulación del espacio"
+            ],
+            "portador": "Organización Akatsuki",
+            "aldea": "N/A"
+        },
+        {
+            "nombre": "La Lanza de indra",
+            "imagen": "https://lh3.google.com/u/0/d/1MeGPbn7ewqICmu5icYR8GiFXiNK22jqS=w1184-h906-iv1",
+            "tipo": "Arma mística",
+            "habilidades": [
+                "Capacidad de penetrar barreras",
+                "Manipulación de energía"
+            ],
+            "portador": "Sasuke Uchiha",
+            "aldea": "Aldea Oculta de la Hoja"
+        },
+        {
+            "nombre": "Vara de Enma",
+            "imagen": "https://lh3.google.com/u/0/d/1CL3tr3nUZlehWFCIq6I_KUJOK_BDA-Ur=w1184-h906-iv1",
+            "tipo": "Arma",
+            "habilidades": [
+                "Transformación en un bastón",
+                "Manipulación de la forma"
+            ],
+            "portador": "Hiruzen Sarutobi",
+            "aldea": "Aldea Oculta de la Hoja"
+        }
+    ],
+    "bijus": [
+        {
+            "nombre": "Shukaku",
+            "imagen": "https://lh3.google.com/u/0/d/1_x73UWRdxVMXuaJUVVDGrhIpvAOrkhjM=w1184-h906-iv1",
+            "jinchuriki": "Gaara",
+            "aldea": "Aldea Oculta de la Arena",
+            "colas": 1
+        },
+        {
+            "nombre": "Matatabi",
+            "imagen": "https://lh3.google.com/u/0/d/1qjS-cQU4-klbzOZ7EFXpVqPP8ljLvga-=w1184-h906-iv1",
+            "jinchuriki": "Yugito Nii",
+            "aldea": "Aldea Oculta de las Nubes",
+            "colas": 2
+        },
+        {
+            "nombre": "Isobu",
+            "imagen": "https://lh3.google.com/u/0/d/1ndu2oqJEKL_8EENWvI9JhOMvRXzqCD0N=w1184-h906-iv1",
+            "jinchuriki": "Yagura Karatachi",
+            "aldea": "Aldea Oculta de la Niebla",
+            "colas": 3
+        },
+        {
+            "nombre": "Son Goku",
+            "imagen": "https://lh3.google.com/u/0/d/1LE44LVgjm8TO1UuSSyp0sFVOTzgwn2h8=w1184-h906-iv1",
+            "jinchuriki": "Rōshi",
+            "aldea": "Aldea Oculta de las Rocas",
+            "colas": 4
+        },
+        {
+            "nombre": "Kokuō",
+            "imagen": "https://lh3.google.com/u/0/d/1z0tHT15iqxwxPGJbWSuaFQEPqJ9hpTr_=w1184-h906-iv1",
+            "jinchuriki": "Han",
+            "aldea": "Aldea Oculta de las Nubes",
+            "colas": 5
+        },
+        {
+            "nombre": "Saiken",
+            "imagen": "https://lh3.google.com/u/0/d/1SR86ovrsDsohXqUrjf3RQM_Rkogu4l31=w1184-h906-iv1",
+            "jinchuriki": "Utakata",
+            "aldea": "Aldea Oculta de la Lluvia",
+            "colas": 6
+        },
+        {
+            "nombre": "Chōmei",
+            "imagen": "https://lh3.google.com/u/0/d/1aU2pendbryomOgREqpf1uJRtXiLo3FFB=w1184-h906-iv1",
+            "jinchuriki": "Fū",
+            "aldea": "Aldea Oculta de las Nubes",
+            "colas": 7
+        },
+        {
+            "nombre": "Gyūki",
+            "imagen": "https://lh3.google.com/u/0/d/1tQt4hrWrUPZQLtCJEK7-s0WuxEMI5HQ9=w1184-h906-iv1",
+            "jinchuriki": "Killer Bee",
+            "aldea": "Aldea Oculta de las Nubes",
+            "colas": 8
+        },
+        {
+            "nombre": "Kurama",
+            "imagen": "https://lh3.google.com/u/0/d/1hOB-Qt9TSZqjQxPsGpOaNNtfSlPUN-GP=w1184-h906-iv1",
+            "jinchuriki": "Naruto Uzumaki",
+            "aldea": "Aldea Oculta de la Hoja",
+            "colas": 9
+        }
+    ],
+    "Paises": [
+        {
+            "Nombre": "País del Fuego",
+            "imagen": "https://lh3.google.com/u/0/d/1bmYpRB0MJesQz_qB8E4khV-iW1QPma9A=w1184-h878-iv1",
+            "Capital": "Konoha",
+            "Lider": "Hokage Naruto Uzumaki",
+            "Aldeas": [
+                {
+                    "Nombre": "Konohagakure",
+                    "Lider": "Hokage Naruto Uzumaki"
+                },
+                {
+                    "Nombre": "Uzushiogakure",
+                    "Lider": "Desconocido"
+                }
+            ]
+        },
+        {
+            "Nombre": "País del Viento",
+            "imagen": "https://lh3.google.com/u/0/d/1-C6pQaLfSq-lawm45Mn9p3KDSwZaSEG_=w1184-h878-iv1",
+            "Capital": "Sunagakure",
+            "Lider": "Kazekage Gaara",
+            "Aldeas": [
+                {
+                    "Nombre": "Sunagakure",
+                    "Lider": "Kazekage Gaara"
+                }
+            ]
+        },
+        {
+            "Nombre": "País de la Tierra",
+            "imagen": "https://lh3.google.com/u/0/d/1MWaK_o7A82GA7GXe89c-aKkwgRbKxKNV=w1184-h878-iv1",
+            "Capital": "Iwagakure",
+            "Lider": "Tsuchikage Kurotsuchi",
+            "Aldeas": [
+                {
+                    "Nombre": "Iwagakure",
+                    "Lider": "Tsuchikage Kurotsuchi"
+                }
+            ]
+        },
+        {
+            "Nombre": "País del Agua",
+            "imagen": "https://lh3.google.com/u/0/d/1DbC5YkoudYGBTJrno4Qe4Eo-l7gwrPZt=w1184-h878-iv1",
+            "Capital": "Kirigakure",
+            "Lider": "Mizukage Chojuro",
+            "Aldeas": [
+                {
+                    "Nombre": "Kirigakure",
+                    "Lider": "Mizukage Chojuro"
+                }
+            ]
+        },
+        {
+            "Nombre": "País del Rayo",
+            "imagen": "https://lh3.google.com/u/0/d/1BttB57ywjmXO6VK4rofBx91sKB_0CHM1=w1184-h878-iv1",
+            "Capital": "Kumogakure",
+            "Lider": "Raikage Darui",
+            "Aldeas": [
+                {
+                    "Nombre": "Kumogakure",
+                    "Lider": "Raikage Darui"
+                }
+            ]
+        }
+    ],
+    "aldeas": [
+        {
+            "nombre": "Aldea Oculta de la Hoja",
+            "imagen": "https://lh3.google.com/u/0/d/1o3_aWgsK0i8T7NKmcvtjciIrWaUNsoly=w1184-h878-iv1",
+            "pais": "País del Fuego",
+            "lider": "Hokage Naruto Uzumaki"
+        },
+        {
+            "nombre": "Aldea Oculta de la Arena",
+            "imagen": "https://lh3.google.com/u/0/d/1jLfLDPYBoeu3VG2BMgXm_ldFtqqzCiqI=w1184-h878-iv1",
+            "pais": "País del Viento",
+            "lider": "Kazekage Gaara"
+        },
+        {
+            "nombre": "Aldea Oculta de la Niebla",
+            "imagen": "https://lh3.google.com/u/0/d/1-0n2DfzeX5LDhdgtbUDhd06Nb64c4n3V=w1184-h878-iv1",
+            "pais": "País del Agua",
+            "lider": "Mizukage Chojuro"
+        },
+        {
+            "nombre": "Aldea Oculta de las Nubes",
+            "imagen": "https://lh3.google.com/u/0/d/1bf6IcVbXJje9_vhhYLXx7Zcu53RQUisP=w1184-h878-iv1",
+            "pais": "País del Rayo",
+            "lider": "Raikage Darui"
+        },
+        {
+            "nombre": "Aldea Oculta de las Rocas",
+            "imagen": "https://lh3.google.com/u/0/d/1zZgGI0xM1YmSQ8hONPKb_0IJfIDFl9lb=w1184-h878-iv1",
+            "pais": "País de la Tierra",
+            "lider": "Tsuchikage Kurotsuchi"
+        }
+    ],
+    "clanes": [
+        {
+            "nombre": "Uchiha",
+            "imagen": "https://lh3.google.com/u/0/d/1YsCXECDCdTiccN2IKwoCYMXXr6GVOsd_=w1184-h878-iv1",
+            "lider": "Sasuke Uchiha",
+            "descripcion": "El clan Uchiha es conocido por su Sharingan, un dojutsu que les permite copiar técnicas y percibir el chakra y los movimientos del enemigo.",
+            "aldea": "Aldea de la Hoja"
+        },
+        {
+            "nombre": "Hyuga",
+            "imagen": "https://lh3.google.com/u/0/d/1x4W86FgMgBRO44pmDeHr0CkYlV1y8BZP=w1184-h878-iv1",
+            "lider": "Hiashi Hyuga",
+            "descripcion": "El clan Hyuga es conocido por su Byakugan, un dojutsu que les permite ver a través de las cosas y percibir el chakra de los demás.",
+            "aldea": "Aldea de la Hoja"
+        },
+        {
+            "nombre": "Senju",
+            "imagen": "https://lh3.google.com/u/0/d/1ZHr8JsfUs4IhLntvpuMBplo_-rGux9Wr=w1184-h878-iv1",
+            "lider": "Tobirama Senju",
+            "descripcion": "El clan Senju es conocido por su habilidad con el ninjutsu y su gran capacidad para controlar el chakra, lo que les permite realizar técnicas muy poderosas.",
+            "aldea": "Aldea de la Hoja"
+        },
+        {
+            "nombre": "Uzumaki",
+            "imagen": "https://lh3.google.com/u/0/d/11SPh9pbxes5ciY2TY2r-a8IwGf-HmElZ=w1184-h878-iv1",
+            "lider": "Nagato Uzumaki",
+            "descripcion": "El clan Uzumaki es conocido por su gran capacidad para controlar y manipular el chakra, así como por su resistencia y longevidad.",
+            "aldea": "Aldea de la Hoja"
+        },
+        {
+            "nombre": "Aburame",
+            "imagen": "https://lh3.google.com/u/0/d/1jfbxXhn8oTX4qkD6W2rGickBhzMD2C1s=w1184-h878-iv1",
+            "lider": "Shino Aburame",
+            "descripcion": "El clan Aburame es conocido por su capacidad para controlar a los insectos y utilizarlos en el combate.",
+            "aldea": "Aldea de la Hoja"
+        },
+        {
+            "nombre": "Nara",
+            "imagen": "https://lh3.google.com/u/0/d/1W4bi5R2dh9Nq0bGHuAM7H2gJQ4hfvAaJ=w1184-h878-iv1",
+            "lider": "Shikamaru Nara",
+            "descripcion": "El clan Nara es conocido por su gran capacidad para analizar situaciones y desarrollar estrategias, así como por su técnica de manipulación de sombras.",
+            "aldea": "Aldea de la Hoja"
+        }
+    ],
+    "personajesEpicos": [
+        {
+            "nombre": "Minato Namikaze",
+            "imagen": "https://lh3.google.com/u/0/d/1402uNUSCQxT0_7GdL7-Vo65sCEiixy6I=w1184-h878-iv1",
+            "rango": "Hokage",
+            "jutsu_mas_fuerte": "Jutsu de invocación: Reaparición del Dios Trueno",
+            "pelea_mas_epica": "Contra Tobi en la Cuarta Gran Guerra Ninja",
+            "aldea": "Konohagakure",
+            "descripcion": "Minato Namikaze, también conocido como el Rayo Amarillo de Konoha, fue el Cuarto Hokage de la aldea oculta de la Hoja. Es ampliamente reconocido por su velocidad y habilidades de teletransportación, así como por su increíble jutsu de invocación, que le permitió invocar al Dios Trueno."
+        },
+        {
+            "nombre": "Obito Uchiha",
+            "imagen": "https://lh3.google.com/u/0/d/1YCNvgazJF6KN8EiBEewBGxoJG4Y_BDno=w1184-h878-iv1",
+            "rango": "Ninja renegado",
+            "jutsu_mas_fuerte": "Kamui",
+            "pelea_mas_epica": "Contra Kakashi en el Valle del Fin",
+            "aldea": "konohagakure",
+            "descripcion": "Obito Uchiha fue uno de los antagonistas principales de Naruto y Naruto Shippuden. A pesar de su caída al lado oscuro, Obito tenía habilidades increíbles, incluyendo su jutsu Kamui, que le permitió teletransportarse a sí mismo y a cualquier objeto que tocara a una dimensión alternativa."
+        },
+        {
+            "nombre": "Nagato",
+            "imagen": "https://lh3.google.com/u/0/d/1Mp_rRUM_geHev7DQF0HVnyHbovouV-gr=w1184-h878-iv1",
+            "rango": "Líder de Akatsuki",
+            "jutsu_mas_fuerte": "Camino Deva",
+            "pelea_mas_epica": "Contra Naruto en la Aldea de la Lluvia",
+            "aldea": "konohagakure",
+            "descripcion": "Nagato, también conocido como Pain, fue el líder de la organización Akatsuki. Era uno de los usuarios más poderosos del Rinnegan, lo que le permitió utilizar varios jutsus de alta potencia. Su técnica más impresionante era el Camino Deva, que le permitía controlar la gravedad a su alrededor."
+        },
+        {
+            "nombre": "Sasuke Uchiha",
+            "imagen": "https://lh3.google.com/u/0/d/1YSBunfh9BwmOf9rnfElzrEBOtPlgnHbk=w1184-h878-iv1",
+            "rango": "Renegado",
+            "jutsu_mas_fuerte": "Amaterasu",
+            "pelea_mas_epica": "Contra Naruto en el Valle del Fin",
+            "aldea": "konohagakure",
+            "descripcion": "Sasuke Uchiha es uno de los personajes principales de Naruto y Naruto Shippuden. Es uno de los últimos miembros sobrevivientes del clan Uchiha y posee habilidades increíbles en la lucha. Uno de sus jutsus más poderosos es el Amaterasu, que le permite crear fuego negro de alta temperatura que es casi imposible de extinguir."
+        },
+        {
+            "nombre": "Hashirama Senju",
+            "imagen": "https://lh3.google.com/u/0/d/1LfmQNSlAQcDDpoZhjnTEVu2xv_T8dmzC=w1184-h878-iv1",
+            "rango": "Primer Hokage",
+            "jutsu_mas_fuerte": "Jutsu de la Creación de la Vida",
+            "pelea_mas_epica": "Contra Madara Uchiha en el Valle del Fin",
+            "aldea": "konohagakure",
+            "descripcion": "Hashirama Senju (千手柱間, Senju Hashirama) fue el Primer Hokage (初代火影, Shodai Hokage) de Konohagakure, un ninja reconocido por ser miembro y líder del Clan Senju durante su tiempo, además de la pasada Reencarnación de Asura Ōtsutsuki. "
+        }
+    ],
+    "invocaciones": [
+        {
+            "nombre": "Gamabunta",
+            "imagen": "https://lh3.google.com/u/0/d/1YXb602LmRglFnsNCwmp4qUx7cvfD_v02=w1184-h878-iv1",
+            "invocador": "Jiraiya",
+            "nombre_jutsu": "Kuchiyose: Gamabunta",
+            "descripcion": "Gamabunta es una invocación en forma de rana gigante y uno de los jefes de todas las ranas invocables. Es conocido por su gran fuerza y habilidad para manejar la espada."
+        },
+        {
+            "nombre": "Katsuyu",
+            "imagen": "https://lh3.google.com/u/0/d/1pjw--WRkOLBk2Tffkw1JMroT8tiBbCvZ=w1184-h878-iv1",
+            "invocador": "Tsunade",
+            "nombre_jutsu": "Kuchiyose: Katsuyu",
+            "descripcion": "Katsuyu es una invocación en forma de babosa gigante. Puede dividirse en varias partes y curar a personas heridas o transmitir información a través de sus partes."
+        },
+        {
+            "nombre": "Manda",
+            "imagen": "https://lh3.google.com/u/0/d/1W1Q2ZJRgbG58Dh9hHz-f2Tu_BIXiAdW9=w1184-h878-iv1",
+            "invocador": "Orochimaru",
+            "nombre_jutsu": "Kuchiyose: Manda",
+            "descripcion": "Manda es una invocación en forma de serpiente gigante. Es conocido por su gran fuerza y velocidad y por ser el jefe de todas las serpientes invocables."
+        },
+        {
+            "nombre": "Gamatatsu",
+            "imagen": "https://lh3.google.com/u/0/d/1C_vSR7PrNPIsjYMOhel0_bNd-uUTh2YT=w1184-h878-iv1",
+            "invocador": "Jiraiya",
+            "nombre_jutsu": "Kuchiyose: Gamatatsu",
+            "descripcion": "Gamatatsu es una invocación en forma de rana de menor tamaño que Gamabunta. Aunque no es tan fuerte como su hermano mayor, puede ser muy útil en situaciones de apoyo."
+        }
+    ],
+    "arcos": [
+        {
+            "arco_1": {
+                "nombre": "Arco de la Graduación",
+                "imagen": "https://lh3.google.com/u/0/d/1He7-G7JgwPpl9rRAjD5Gb7EURa0ZcT3S=w1184-h878-iv1",
+                "capitulo_inicio": 1,
+                "capitulo_fin": 15,
+                "descripcion": "Este arco narra los eventos que suceden durante la graduación de Boruto y sus compañeros en la Academia Ninja de Konoha."
+            },
+            "arco_2": {
+                "nombre": "Arco de la Misión de Sarada",
+                "imagen": "https://lh3.google.com/u/0/d/1He7-G7JgwPpl9rRAjD5Gb7EURa0ZcT3S=w1184-h878-iv1",
+                "capitulo_inicio": 19,
+                "capitulo_fin": 24,
+                "descripcion": "En este arco, Sarada Uchiha comienza una misión para encontrar a su padre, Sasuke Uchiha, con la ayuda de Boruto y el resto de su equipo."
+            },
+            "arco_3": {
+                "nombre": "Arco de la Academia Avanzada",
+                "imagen": "https://lh3.google.com/u/0/d/1He7-G7JgwPpl9rRAjD5Gb7EURa0ZcT3S=w1184-h878-iv1",
+                "capitulo_inicio": 26,
+                "capitulo_fin": 52,
+                "descripcion": "Boruto y sus compañeros inician su entrenamiento en la Academia Avanzada para convertirse en verdaderos ninjas y enfrentar desafíos más difíciles."
+            },
+            "arco_4": {
+                "nombre": "Arco de la Búsqueda del Recuerdo Perdido",
+                "imagen": "https://lh3.google.com/u/0/d/1He7-G7JgwPpl9rRAjD5Gb7EURa0ZcT3S=w1184-h878-iv1",
+                "capitulo_inicio": 60,
+                "capitulo_fin": 67,
+                "descripcion": "Boruto, Mitsuki y Sarada comienzan una misión para encontrar a un hombre que afirma tener información sobre el paradero de Sasuke Uchiha."
+            },
+            "arco_5": {
+                "nombre": "Arco del Viaje Escolar",
+                "imagen": "https://lh3.google.com/u/0/d/1He7-G7JgwPpl9rRAjD5Gb7EURa0ZcT3S=w1184-h878-iv1",
+                "capitulo_inicio": 98,
+                "capitulo_fin": 103,
+                "descripcion": "Boruto y sus compañeros viajan a un resort para disfrutar de un viaje escolar, pero se ven envueltos en un incidente relacionado con un objeto antiguo."
+            },
+            "arco_6": {
+                "nombre": "Arco del Clan de la Luna",
+                "imagen": "https://lh3.google.com/u/0/d/1He7-G7JgwPpl9rRAjD5Gb7EURa0ZcT3S=w1184-h878-iv1",
+                "capitulo_inicio": 141,
+                "capitulo_fin": 151,
+                "descripcion": "En este arco, Boruto y su equipo se involucran en un conflicto con el Clan de la Luna, una organización que busca venganza contra la Aldea Oculta de la Hoja."
+            },
+            "arco_7": {
+                "nombre": "Arco del Rescate de Kawaki",
+                "imagen": "https://lh3.google.com/u/0/d/1He7-G7JgwPpl9rRAjD5Gb7EURa0ZcT3S=w1184-h878-iv1",
+                "capitulo_inicio": 189,
+                "capitulo_fin": 206,
+                "descripcion": "En este arco, Boruto y sus compañeros se unen a Kawaki para rescatar a su amigo, quien ha sido secuestrado por un grupo de ninjas."
+            }
+        }
+    ]
+}
